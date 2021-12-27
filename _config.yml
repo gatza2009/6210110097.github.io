@@ -22,8 +22,8 @@ title: 6210110097-Blog
 email: 6210110097@psu.ac.th
 description: >- # this means to ignore newlines until "baseurl:"
   This website is part of subject 240-302 3SB01 Modern CMS for Web Site Generation using Jekyll tools and using markdown language to write,does not generate income and does not intend to infringe any copyright.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "6210110097.github.io" # the subpath of your site, e.g. /blog
+url: "https://gatza2009.github.io/6210110097.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: vessel579
 github_username:  gatza2009
 facebook_username: gat03407
